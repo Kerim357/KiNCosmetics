@@ -1,3 +1,56 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+.homepage {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1 px none;
+    display: flex;
+    flex-direction: column;
+    height: 2188px;
+    overflow: hidden;
+    width:1460px;
+}
+.hidden, 
+.hidden  {
+pointer-events: none;
+visibility: hidden;
+}
+.overlap-group2{
+    height: 1298px;
+    margin-left: -6px;
+    position: relative;
+    width:1460px;
+}
+.lorem_ipsum_dolor-si{
+    color:var(--black);
+    font-family: var(--font-family-prata);
+    font-size: var(--font-size-xs);
+    font-weight: 400;
+    left:633px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top:996px;
+    width:753px;
+}
+.rectangle-7{
+    height:750px;
+    left: 6px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1460px;
+}
+.rectangle-8{
+    background-color: var(--white);
+    height: 552px;
+    left:0;
+    position: absolute;
+    top: 738px;
+    width: 1460;
+}
+.natural-beauty{
+    color: var(--white);
+    font-family: var(--font-family-prata);
+    font-size: var(--font-size-xxl);
+
+}
