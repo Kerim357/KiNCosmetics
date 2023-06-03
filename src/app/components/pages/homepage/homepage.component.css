@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
 .homepage {
     align-items: flex-start;
-    background-color: var(--white);
+    background-color: white;
     border: 1 px none;
     display: flex;
     flex-direction: column;
@@ -21,7 +21,7 @@ visibility: hidden;
     width:1460px;
 }
 .lorem_ipsum_dolor-si{
-    color:var(--black);
+    color:black;
     font-family: var(--font-family-prata);
     font-size: var(--font-size-xs);
     font-weight: 400;
@@ -49,7 +49,7 @@ visibility: hidden;
     width: 1460;
 }
 .natural-beauty{
-    color: var(--white);
+    color: white;
     font-family: var(--font-family-prata);
     font-size: var(--font-size-xxl);
     font-weight:400;
@@ -91,7 +91,7 @@ visibility: hidden;
     width: 8px;
 }
 .skin-care{
-    color: var(--orange);
+    color: orange;
     font-family: var(--font-family-prata);
     font-size: var(--font-size-l);
     font-weight: 400;
@@ -132,4 +132,206 @@ visibility: hidden;
     line-height: normal;
     min-height:12px;
     white-space: nowrap;
+}
+.title{
+    color: orange;
+    font-family: var(--font-family-prata);
+    font-size: var(--font-size-xxxxl);
+    font-weight: 400;
+    left: 360px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1168px;
+}
+.buttons-3{
+    align-items: flex-start;
+    background-color: orange;
+    display: flex;
+    height: 32px;
+    left: 968px;
+    padding: 9px 27px;
+    position: absolute;
+    top: 433px;
+    width: 100px;
+}
+.add-to-cart{
+    cursor:pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 12px;
+    white-space: nowrap;
+}
+.buttons-1{
+    height:35px;
+    left:1166px;
+    position: absolute;
+    top: 128px;
+    width: 35px;
+}
+.line-2{
+    height: 8px;
+    left: 132px;
+    position: absolute;
+    top: 77px;
+    width: 1216;
+}
+.buttons-2{
+    height: 35px;
+    left: 1223px;
+    position: absolute;
+    top: 128px;
+    width: 35px;
+}
+.skin-nourishment-night-cream{
+    color:black;
+    font-family: var(--font-family-prata);
+    font-size:var(--font-size-l);
+    font-weight: 400;
+    left: 633px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top:927px;
+}
+.overlap-group4{
+    align-items: flex-start;
+    background-color: lightOrange;
+    display: flex;
+    flex-direction: column;
+    gap: 63px;
+    min-height: 481px;
+    padding: 42px 123px;
+    width: 1460px;
+}
+.popular-categories{
+align-self: center;
+color: black;
+font-family: prata;
+
+
+}
+.categories-container{
+align-items: flex-start;
+display: flex;
+height: 231px;
+min-width: 1213;
+}
+.categories{
+    align-items: center; 
+    align-self: flex-end;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap:16px;
+    height: 228px;
+    margin-left: 109px;
+    overflow: hidden;
+    padding: 1px 0;
+    width: 221px;
+}
+.lipstick-1{
+    height: 101px;
+    margin-right: 1px;
+    margin-top: 46px;
+    object-fit: cover;
+    width: 96px;
+}
+.lipstick{
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 63px;
+    width:141px;
+}
+.categories-1{
+    align-items: center; 
+    align-self: flex-end;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap:6px;
+    height: 228px;
+    margin-left: 109px;
+    overflow: hidden;
+    padding: 1px 23px;
+    width: 221px;
+}
+.cream-2{
+    align-self: center;
+    height: 141px;
+    margin-left: 8px;
+    margin-top: 16px;
+    object-fit: cover;
+    width: 141px;
+}
+.skin-care-1{
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 63px;
+    width: 168px;
+}
+.categories-2{
+    align-items: center; 
+    align-self: flex-end;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    gap:1px;
+    height: 228px;
+    margin-left: 112px;
+    overflow: hidden;
+    padding: 1px 12px;
+    width: 221px;
+}
+.makeup{
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 63px;
+    width: 168px;
+}
+.make-up-2{
+    align-self: center;
+    height: 148px;
+    margin-left: 1px;
+    margin-top: 15px;
+    object-fit: cover;
+    width: 146px;
+}
+.categories-3{
+    align-items: flex-end; 
+    align-self: flex-end;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    height: 228px;
+    margin-left: 108px;
+    overflow: hidden;
+    padding: 1px 16px;
+    width: 221px;
+}
+.perfume-container{
+    height: 199px;
+    margin-left: 21px;
+    position: relative;
+    width: 168px;
+}
+.perfume{
+    left:0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 168px;
+}
+.pefume-2{
+    height: 137px;
+    left:0;
+    object-fit: cover;
+    position: absolute;
+    top:0;
+    width: 135px;
 }

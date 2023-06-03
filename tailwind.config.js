@@ -142,7 +142,6 @@ module.exports = {
       neutral: colors.neutral,
       stone: colors.stone,
       red: colors.red,
-      orange: colors.orange,
       amber: colors.amber,
       yellow: colors.yellow,
       lime: colors.lime,
@@ -158,11 +157,10 @@ module.exports = {
       fuchsia: colors.fuchsia,
       pink: colors.pink,
       rose: colors.rose,
-      primary:"#000",
-      accent:"#FFD600",
-      graylight:"#F2f2f2",
-      gray:"a3a3a3",
-      graydark:"555"
+      darkGray: "#2b2323",
+      lightOrange:"#F2C398",
+      orange:"#F09B4C",
+      
     }),
     columns: {
       auto: 'auto',
@@ -320,6 +318,7 @@ module.exports = {
         '"Segoe UI Emoji"',
         '"Segoe UI Symbol"',
         '"Noto Color Emoji"',
+
       ],
       serif: ['ui-serif', 'Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
       mono: [
@@ -332,6 +331,7 @@ module.exports = {
         '"Courier New"',
         'monospace',
       ],
+      
     },
     fontSize: {
       xs: ['0.75rem', { lineHeight: '1rem' }],

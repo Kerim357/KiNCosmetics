@@ -1,0 +1,45 @@
+.rectangle-42{
+    background-color: white;
+    height: 196px;
+    left:0;
+    position: absolute;
+    top: 0;
+    width: 1460px;
+}
+.flowers1{
+    object-fit: cover;
+    position: absolute;
+    top: 2px;
+}
+.flowers2{
+    height: 496px;
+    left: 616px;
+    width: 630px;
+}
+.ki-n-3-2{
+    height: 163px;
+    left: 80px;
+    object-fit: cover;
+    position: absolute;
+    top:33px;
+    width: 110px;
+}
+.buttons-3{
+    height: 35px;
+    position: absolute;
+    top: 45px;
+    width: 35px;
+}
+.buttons-2{
+    left: 1219px;
+}
+.buttons-1{
+    left:1282px;
+}
+.buttons{
+    height: 35px;
+    left: 1345px;
+    position: absolute;
+    top: 45px;
+    width: 35px;
+}

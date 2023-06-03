@@ -8,6 +8,10 @@ import { ProductPageComponent } from './components/pages/product-page/product-pa
 import { ProductsComponent } from './components/pages/products/products.component';
 import { ConstactUsComponent } from './components/pages/constact-us/constact-us.component';
 import { CartComponent } from './components/pages/cart/cart.component';
+import { FooterComponent } from './components/shared/footer/footer.component';
+import { HeaderComponent } from './components/shared/header/header.component';
+import { ButtonComponent } from './components/shared/button/button.component';
+import { NavbarComponent } from './components/shared/navbar/navbar.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +20,11 @@ import { CartComponent } from './components/pages/cart/cart.component';
     ProductPageComponent,
     ProductsComponent,
     ConstactUsComponent,
-    CartComponent
+    CartComponent,
+    FooterComponent,
+    HeaderComponent,
+    ButtonComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,

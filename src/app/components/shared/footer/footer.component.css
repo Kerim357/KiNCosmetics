@@ -1,0 +1,85 @@
+.overlap-group3{
+    background-color: #d9d9d9;
+    height: 409px;
+    position: relative;
+    width: 1460px;
+}
+.ri-facebook-box-line{
+    height: 56px;
+    left: 702px;
+    position: absolute;
+    top: 249px;
+    width: 56px;
+}
+.ri-copyright-line{
+    height: 24px;
+    left: 651px;
+    position: absolute;
+    top: 354px;
+    width: 24px;
+}
+.footer{
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    height: 409px;
+    justify-content: flex-start;
+    left: 0;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0;
+    width: 1460px;
+}
+.ki-n-3-1{
+    height: 139px;
+    margin-top: 16px;
+    object-fit: cover;
+    width: 94px;
+}
+.ki-n-is-the-place-where{
+    color:var(--black);
+    font-family: var(--font-family-prata);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 7px;
+    min-height: 66px;
+    min-width: 1114px;
+    text-align: center;
+}
+.overlap-group{
+    align-items: flex-start;
+    background-color: black;
+    display: flex;
+    height: 84px;
+    margin-top: 97px;
+    min-width: 1460px;
+    padding: 28px 681px;
+}
+.x2023-ki-n{
+color: var(--white);
+font-family: var(--font-family-prata);
+font-size: 28px;
+font-weight: 400;
+letter-spacing: 0;
+line-height: normal;
+min-height: 27px;
+min-width: 98px;
+text-align: center;
+}
+.ri-instagram-line{
+    height: 56px;
+    left: 568px;
+    position: absolute;
+    top:249px;
+    width: 56px;
+}
+.ri-twitter-line{
+    height: 56px;
+    left: 836px;
+    position: absolute;
+    top: 249px;
+    width: 56px;
+}
