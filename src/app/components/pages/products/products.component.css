@@ -1,0 +1,284 @@
+﻿
+.product {
+    align-items: flex-start; 
+    background-color: white; 
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 2188px;
+    width: 1460px;
+}
+
+    .hidden,
+    .hidden * {
+    pointer-events: none; 
+    visibility: hidden;
+}
+.lorem-ipsum {
+    left: 921px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 579px;
+    width: 477px;
+}
+.counter {
+    align-items: flex-start;
+    display: flex;
+    height: 77px;
+    left: 900px;
+    min-width: 179px;
+    opacity: 0.6;
+    position: absolute;
+    top: 695px;
+}
+.counter-frame { 
+    align-items: flex-start;
+    background-color: white; 
+    border-radius: 20px;
+    display: flex;
+    gap: 36px;  
+    height: 77px;
+    overflow: hidden;
+    padding: 20px 14px; 
+    width: 179px;
+}
+.counter-buttons-1 {
+    height: 35px;
+    width: 35px;
+}
+.counter-buttons {
+    align-self: center;
+    height: 35px;
+    width: 35px;
+}
+.number {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: 1px;
+    min-height: 33px;
+    min-width: 9px;
+    text-align: center;
+}
+
+.buttons-1 { 
+    height: 35px;
+    left: 1282px; 
+    position: absolute;
+    top: 43px;
+    width: 35px;
+}
+.creams-2 {
+    height: 665px;
+    left: 80px;
+    object-fit: cover; 
+    position: absolute;
+    top: 363px;
+    width: 786px;
+}
+.price-1 {
+    left: 914px; 
+    position: absolute;
+    text-align: center; 
+    top: 504px;
+}
+.product .price-2 {
+    letter-spacing: 0; 
+    line-height: normal;
+}
+
+.product .products-4 { 
+    align-items: center;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 320px;
+    padding: 13px 0; 
+    position: absolute;
+    top: 1370px; 
+    width: 310px;
+}
+.products-1 {
+    left: 410px;
+}
+.price {
+    margin-top: 18px;
+    min-height: 19px;
+    min-width: 54px;
+    white-space: nowrap;
+}
+.name-of-the-product {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 1px;
+    margin-top: 33px;
+    min-height: 33px;
+    min-width: 239px;
+}
+.rectangle-37 { 
+    height: 170px; 
+    object-fit: cover; 
+    width: 240px;
+}
+.skin-nourishment-night-cream {
+    color: black;
+    font-family: prata;
+    font-size: large;
+    font-weight: 400;
+    left: 914px; 
+    letter-spacing: 0; 
+    line-height: normal;
+    position: absolute; 
+    text-align: center;
+    top: 450px;
+    }
+.rectangle-59 { 
+    height: 152px; 
+    left: 332px;
+    object-fit: cover; 
+    position: absolute;
+    top: 1063px;
+    width: 200px;
+    }
+.rectangle-60 { 
+    height: 152px; 
+    left: 583px;
+    object-fit: cover; 
+    position: absolute;
+    top: 1063px;
+    width: 200px;
+}
+.lorem-ipsum1 {
+    left: 918px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 879px;
+    width: 466px;
+}
+.rectangle-62 {
+    background-color: rgba(180,141,107,1);
+    height: 127px;
+    left: 0;
+    position: absolute;
+    top: 211px;
+    width: 1460px;
+ }
+.rectangle-61 {
+    background-color: rgba(180,141,107,1);
+    height: 498px;
+    left: 0;
+    position: absolute;
+    top: 1281px;
+    width: 1460px;
+}
+.products-2 {
+    left: 739px;
+}
+.title {
+    color: #e28c3d3b;
+    font-family: prata; 
+    font-size: 64px;
+    font-weight: 400;
+    left: 833px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 337px;
+    width: 552px;
+}
+.related-products { 
+    color: white;
+    font-family: prata;
+    font-size: large;
+    font-weight: 400;
+    left: 80px; letter-spacing: 0;
+    line-height: normal; position: absolute;
+    text-align: center;
+    top: 1303px;
+}
+.buttons-6 {
+    height: 35px;
+    left: 1029px; 
+    position: absolute;
+    top: 836px;
+    width: 35px;
+}
+.rectangle-58 {
+    height: 152px; 
+    left: 80px;
+    object-fit: cover;
+    position: absolute;
+    top: 1063px;
+    width: 200px;
+}
+.product-details { 
+    color: white;
+    font-family: prata; 
+    font-size: xx-large; 
+    font-weight: 400;
+    left: 493px; letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 228px;
+}
+.products {
+                
+    left: 80px;
+}
+.categories-skin-car { 
+    left: 1175px;
+    letter-spacing: 0; 
+    line-height: normal; 
+    position: absolute;
+    text-align: center;
+    top: 753px;
+    width: 205px;
+}
+.rectangle-53 {
+    background-color: white;
+    height: 958px;
+    left: 0;
+    position: absolute;
+    top: 325px;
+    width: 1460px;
+}
+.buttons-4 { height: 35px; left: 914px;
+    position: absolute;
+    top: 836px;
+     width: 35px;
+}
+.rectangle-42 {
+    background-color: white;
+    height: 196px;
+    left: 0;
+     position: absolute;
+     top: 0;
+    width: 1460px;
+ }
+.buttons-2 {
+    height: 35px;
+    left: 1345px;
+    position: absolute;
+    top: 43px;
+     width: 35px;
+}
+.buttons {
+    height: 35px;
+    left: 1219px;
+    position: absolute;
+    top: 43px;
+    width: 35px;
+}
+ .buttons-5 { height: 35px; left: 972px;
+     position: absolute;
+    top: 836px;
+    width: 35px;
+ }
+.number-slide {
+    height: 55px; left: 811px;
+    position: absolute;
+    top: 1111px;
+    width: 55px;
+}
