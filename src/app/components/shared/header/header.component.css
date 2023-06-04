@@ -1,10 +1,14 @@
+@font-face {
+    font-family: prata;
+    src: url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+  }
 .rectangle-42{
     background-color: white;
     height: 196px;
     left:0;
     position: absolute;
     top: 0;
-    width: 1460px;
+    
 }
 .flowers1{
     height: 196px;

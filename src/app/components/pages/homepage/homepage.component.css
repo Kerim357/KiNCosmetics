@@ -1,13 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+@font-face {
+    font-family: prata;
+    src: url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+  }
 .homepage {
     align-items: flex-start;
     background-color: white;
     border: 1 px none;
     display: flex;
     flex-direction: column;
-    height: 2188px;
+    
     overflow: hidden;
-    width:1460px;
+   
 }
 .hidden, 
 .hidden  {
@@ -20,7 +23,7 @@ visibility: hidden;
     position: relative;
     width:1460px;
 }
-.lorem_ipsum_dolor-si{
+.lorem_ipsum{
     color:black;
     font-family: prata;
     font-size: small;
@@ -38,7 +41,7 @@ visibility: hidden;
     object-fit: cover;
     position: absolute;
     top: 0;
-    width: 1460px;
+    width: 1496px;
 }
 .rectangle-8{
     background-color: white;
@@ -51,9 +54,9 @@ visibility: hidden;
 .natural-beauty{
     color: white;
     font-family: prata;
-    font-size: xx-large;
+    font-size: 56px;
     font-weight:400;
-    left: 792px;
+    left: 800px;
     letter-spacing: 0;
     line-height: normal;
     position: absolute;
@@ -136,7 +139,7 @@ visibility: hidden;
 .title{
     color: orange;
     font-family:prata;
-    font-size: xxxx-large;
+    font-size: 96px;
     font-weight: 400;
     left: 360px;
     letter-spacing: 0;
@@ -209,7 +212,13 @@ visibility: hidden;
 align-self: center;
 color: black;
 font-family: prata;
-
+font-size: xx-large;
+font-weight: 400;
+letter-spacing: 0;
+line-height: normal;
+margin-right: 1px;
+min-height: 87px;
+min-width: 573px;
 
 }
 .categories-container{
