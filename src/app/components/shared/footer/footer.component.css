@@ -2,16 +2,17 @@
     background-color: #d9d9d9;
     height: 409px;
     position: relative;
-    width: 1460px;
+    min-width: 1460px;
 }
-.ri-facebook-box-line{
+.fa-facebook{
     height: 56px;
     left: 702px;
     position: absolute;
     top: 249px;
     width: 56px;
 }
-.ri-copyright-line{
+.fa-copyright{
+    color: white;
     height: 24px;
     left: 651px;
     position: absolute;
@@ -53,15 +54,15 @@
     align-items: flex-start;
     background-color: black;
     display: flex;
-    height: 84px;
+    height: 15px;
     margin-top: 97px;
     min-width: 1460px;
     padding: 28px 681px;
 }
-.x2023-ki-n{
-color: var(--white);
+.copyright{
+color: white;
 font-family: var(--font-family-prata);
-font-size: 28px;
+font-size: 18px;
 font-weight: 400;
 letter-spacing: 0;
 line-height: normal;
@@ -69,14 +70,14 @@ min-height: 27px;
 min-width: 98px;
 text-align: center;
 }
-.ri-instagram-line{
+.fa-instagram{
     height: 56px;
     left: 568px;
     position: absolute;
     top:249px;
     width: 56px;
 }
-.ri-twitter-line{
+.fa-twitter{
     height: 56px;
     left: 836px;
     position: absolute;
