@@ -94,7 +94,7 @@ visibility: hidden;
     width: 8px;
 }
 .skin-care{
-    color: orange;
+    color: rgba(226,140,61,1);
     font-family: prata;
     font-size: large;
     font-weight: 400;
@@ -121,7 +121,7 @@ visibility: hidden;
 }
 .buttons-4{
     align-items: flex-start;
-    background-color:orange;
+    background-color:rgba(226,140,61,1);
     display: flex;
     height:32px;
     left:636px;
@@ -137,7 +137,7 @@ visibility: hidden;
     white-space: nowrap;
 }
 .title{
-    color: orange;
+    color: rgba(226,140,61,1);
     font-family:prata;
     font-size: 96px;
     font-weight: 400;
@@ -149,7 +149,7 @@ visibility: hidden;
 }
 .buttons-3{
     align-items: flex-start;
-    background-color: orange;
+    background-color: rgba(226,140,61,1);
     display: flex;
     height: 32px;
     left: 968px;
@@ -200,7 +200,7 @@ visibility: hidden;
 }
 .overlap-group4{
     align-items: flex-start;
-    background-color: lightOrange;
+    background-color: rgba(180,141,107,1);
     display: flex;
     flex-direction: column;
     gap: 63px;
