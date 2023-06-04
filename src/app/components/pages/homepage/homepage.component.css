@@ -22,8 +22,8 @@ visibility: hidden;
 }
 .lorem_ipsum_dolor-si{
     color:black;
-    font-family: var(--font-family-prata);
-    font-size: var(--font-size-xs);
+    font-family: prata;
+    font-size: small;
     font-weight: 400;
     left:633px;
     letter-spacing: 0;
@@ -41,7 +41,7 @@ visibility: hidden;
     width: 1460px;
 }
 .rectangle-8{
-    background-color: var(--white);
+    background-color: white;
     height: 552px;
     left:0;
     position: absolute;
@@ -50,8 +50,8 @@ visibility: hidden;
 }
 .natural-beauty{
     color: white;
-    font-family: var(--font-family-prata);
-    font-size: var(--font-size-xxl);
+    font-family: prata;
+    font-size: xx-large;
     font-weight:400;
     left: 792px;
     letter-spacing: 0;
@@ -92,8 +92,8 @@ visibility: hidden;
 }
 .skin-care{
     color: orange;
-    font-family: var(--font-family-prata);
-    font-size: var(--font-size-l);
+    font-family: prata;
+    font-size: large;
     font-weight: 400;
     left: 636px;
     letter-spacing: 0;
@@ -118,7 +118,7 @@ visibility: hidden;
 }
 .buttons-4{
     align-items: flex-start;
-    background-color: var(--orange);
+    background-color:orange;
     display: flex;
     height:32px;
     left:636px;
@@ -135,8 +135,8 @@ visibility: hidden;
 }
 .title{
     color: orange;
-    font-family: var(--font-family-prata);
-    font-size: var(--font-size-xxxxl);
+    font-family:prata;
+    font-size: xxxx-large;
     font-weight: 400;
     left: 360px;
     letter-spacing: 0;
@@ -185,8 +185,8 @@ visibility: hidden;
 }
 .skin-nourishment-night-cream{
     color:black;
-    font-family: var(--font-family-prata);
-    font-size:var(--font-size-l);
+    font-family: prata;
+    font-size:large;
     font-weight: 400;
     left: 633px;
     letter-spacing: 0;
