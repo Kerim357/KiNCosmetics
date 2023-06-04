@@ -1,3 +1,7 @@
+@font-face {
+    font-family: prata;
+    src: url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+  }
 .overlap-group3{
     background-color: #d9d9d9;
     height: 409px;
@@ -39,9 +43,9 @@
     width: 94px;
 }
 .ki-n-is-the-place-where{
-    color:var(--black);
-    font-family: var(--font-family-prata);
-    font-size: var(--font-size-m);
+    color:black;
+    font-family: prata;
+    font-size: large;
     font-weight: 400;
     letter-spacing: 0;
     line-height: normal;

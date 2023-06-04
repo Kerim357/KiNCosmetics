@@ -7,14 +7,17 @@
     width: 1460px;
 }
 .flowers1{
+    height: 196px;
     object-fit: cover;
     position: absolute;
     top: 2px;
+    left: 700px;
 }
 .flowers2{
-    height: 496px;
-    left: 616px;
-    width: 630px;
+    height: 196px;
+    top: 2px;
+    object-fit: cover;
+    left: 500px;
 }
 .ki-n-3-2{
     height: 163px;
