@@ -1,0 +1,63 @@
+.rectangle-62{
+    background-color: rgba(180,141,107,1);
+    height: 127px;
+    left: 0;
+    position: absolute;
+    top:196px;
+    width:1460px;
+}
+.title{
+    left:662px;
+    color:white;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top:215px;
+}
+.rectangle-53{
+    background-color: white;
+    height: 958px;
+    left: 0;
+    position: absolute;
+    top:323px;
+    width:1460px;
+}
+.frame{
+    height: 209px;
+    left: 599px;
+    position: absolute;
+    top:300px;
+    width: 206px;
+}
+.empty{
+    color:black;
+    font-family: prata;
+    font-size: xx-large;
+    font-weight: 400;
+    left: 304px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top:500px;
+}
+.retun-to-shop{
+    align-items: flex-start;
+    background-color: black;
+    display: flex;
+    height: 155px;
+    left:437px;
+    padding: 33px 66px;
+    position: absolute;
+    top:867px;
+    width: 586px;
+}
+.return-to-shop{
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 87px;
+    min-width: 454px;
+    text-align: center;
+}

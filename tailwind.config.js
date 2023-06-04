@@ -158,8 +158,8 @@ module.exports = {
       pink: colors.pink,
       rose: colors.rose,
       darkGray: "#2b2323",
-      lightOrange:"#F2C398",
-      orange:"#F09B4C",
+      lightOrange:'#F2C398',
+      orange:'#F09B4C',
       
     }),
     columns: {

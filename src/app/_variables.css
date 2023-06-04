@@ -1,0 +1,21 @@
+:root{
+    --darkGray:rgba(0,0,0,0.502);
+    --black:rgba(0,0,0,1);
+    --lightOrange:rgba(180,141,107,1);
+    --orange:rgba(226,140,61,1);
+    --white:rgba(255,255,255,2);
+    
+    --font-family-prata:"Prata";
+}
+.prata-normal-white-36px{
+    color:var(--white);
+    font-family: var(--font-family-prata);
+    font-size: 36px;
+    font-style: normal;
+}
+.prata-normal-white-64px{
+    color:var(--white);
+    font-family: var(--font-family-prata);
+    font-size: 64px;
+    font-style: normal;
+}
